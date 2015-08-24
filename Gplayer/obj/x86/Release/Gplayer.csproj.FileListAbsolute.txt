@@ -1,0 +1,12 @@
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\bin\Release\Gplayer.exe
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\bin\Release\Gplayer.pdb
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\bin\Release\Interop.WMPLib.dll
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\bin\Release\AxInterop.WMPLib.dll
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\obj\x86\Release\Interop.WMPLib.dll
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\obj\x86\Release\AxInterop.WMPLib.dll
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\obj\x86\Release\Gplayer.csproj.ResolveComReference.cache
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\obj\x86\Release\Gplayer.Form1.resources
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\obj\x86\Release\Gplayer.Properties.Resources.resources
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\obj\x86\Release\Gplayer.csproj.GenerateResource.Cache
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\obj\x86\Release\Gplayer.exe
+F:\Practise\VS2010\exp2\Gplayer\Gplayer\obj\x86\Release\Gplayer.pdb
